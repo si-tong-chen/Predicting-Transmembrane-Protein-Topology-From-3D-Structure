@@ -1,0 +1,4 @@
+path: '/Users/chensitong/DL/gcpnet'
+file_name: 'DeepTMHMM.3line'
+setup: 'setup1'
+batch_size: 1

@@ -1,0 +1,10 @@
+out_dim: 6
+max_len: 20000
+num_layers: 5
+emb_dim: 128
+residual: True
+dropout: 0.1
+activation: "relu"
+norm: "layer"
+aggr: "mean"
+pool: "mean"
