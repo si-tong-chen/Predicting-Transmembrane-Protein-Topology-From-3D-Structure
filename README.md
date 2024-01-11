@@ -3,7 +3,7 @@
 ### Introduction
  Our study introduces a Graph Neural Network (GNN)-based method that uses 3D structural information obtained from the well-known Alphafold model developed by DeepMind. 
 
- We have completed three sub-projects, each based on different GNN models (Schnet, EGNN, GCPNet), and conducted both horizontal and vertical comparisons. For details, please refer to the [notebook] (https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/notebook/Predicting%20transmembrance%20protein%20topology%20from%203D%20structure.ipynb), [report] (https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/reports/report.pdf), and [poster] (https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/poster/poster.pdf).
+ We have completed three sub-projects, each based on different GNN models (Schnet, EGNN, GCPNet), and conducted both horizontal and vertical comparisons. For details, please refer to the [notebook](https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/notebook/Predicting%20transmembrance%20protein%20topology%20from%203D%20structure.ipynb), [report](https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/reports/report.pdf), and [poster](https://github.com/si-tong-chen/Predicting-Transmembrane-Protein-Topology-From-3D-Structure/blob/main/poster/poster.pdf).
 
 
  ### Getting Started
