@@ -28,7 +28,7 @@ This command tells **pip** to install the current package (denoted by .) along w
 
 ##### EGNN, GCPNet project 
 ```bash
-cd egnn/schnet
+cd egnn/gcpnet
 make data  # processing the raw data and download the 3D structure 
 make train # training the model 
 make test  # test and evaluate the model 
